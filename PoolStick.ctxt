@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ Poolstick()
+comment2.params=
+comment2.target=void\ doDisplay()
+comment3.params=
+comment3.target=void\ doRemove()
+comment4.params=nextState
+comment4.target=void\ setState(int)
+numComments=5

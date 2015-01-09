@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=successor
+comment0.target=void\ setSuccessor(Handler)
+comment1.params=request
+comment1.target=void\ handleRequest(Request)
+numComments=2

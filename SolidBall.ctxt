@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SolidBall()
+comment1.params=decoratedBall
+comment1.target=SolidBall(BallDecorator)
+comment2.params=
+comment2.target=java.awt.Color\ draw()
+comment3.params=
+comment3.target=double\ getMoveX()
+comment4.params=
+comment4.target=double\ getMoveY()
+comment5.params=
+comment5.target=double\ getNewX()
+comment6.params=
+comment6.target=double\ getNewY()
+comment7.params=vx\ vy
+comment7.target=void\ setMove(double,\ double)
+comment8.params=
+comment8.target=void\ act()
+comment9.params=
+comment9.target=int\ getRadius()
+numComments=10

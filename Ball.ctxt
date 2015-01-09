@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.awt.Color\ draw()
+comment1.params=
+comment1.target=double\ getMoveX()
+comment1.text=\r\n\ \ \ \ public\ void\ act()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ setExactLocation(getExactX()\ +\ moveX,\ getExactY()\ +\ moveY);\r\n\ \ \ \ }\r\n
+comment10.params=x\ y
+comment10.target=void\ setExactLocation(double,\ double)
+comment11.params=x\ y
+comment11.target=void\ setLocation(int,\ int)
+comment2.params=
+comment2.target=double\ getMoveY()
+comment3.params=
+comment3.target=double\ getNewX()
+comment4.params=
+comment4.target=double\ getNewY()
+comment5.params=vx\ vy
+comment5.target=void\ setMove(double,\ double)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=int\ getRadius()
+comment8.params=
+comment8.target=double\ getExactX()
+comment9.params=
+comment9.target=double\ getExactY()
+numComments=12
